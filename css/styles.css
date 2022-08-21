@@ -20,6 +20,7 @@ main {
   background-color: #3944bc;
   color: white;
   cursor: pointer;
+  margin-bottom: 10px;
 }
 
 .content {
@@ -49,4 +50,9 @@ main {
 .left-column {
   display: flex;
   flex-direction: column;
+}
+
+
+a {
+  margin-bottom: 10px;
 }
