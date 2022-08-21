@@ -54,5 +54,15 @@ main {
 
 
 a {
+  cursor: pointer;
   margin-bottom: 10px;
+}
+
+a:hover {
+  color: blue;
+}
+
+.project-container {
+  display: flex;
+  flex-direction: column;
 }
