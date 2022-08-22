@@ -17,7 +17,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #3944bc;
+  background-color: #6495ED;
   color: white;
   cursor: pointer;
   margin-bottom: 10px;
@@ -45,6 +45,9 @@ main {
 
 .title {
   margin-bottom: 10px;
+  color: #483D8B;
+  font-size: large;
+
 }
 
 .left-column {
@@ -63,6 +66,17 @@ a:hover {
 }
 
 .project-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.right-column {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.sentence {
   display: flex;
   flex-direction: column;
 }
