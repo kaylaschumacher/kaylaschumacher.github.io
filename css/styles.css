@@ -68,7 +68,8 @@ a {
   background-color: #a8f5bf;
   color: white;
   padding: 14px 25px;
-  text-align: center;
+  text-align: left;
+  width: 50%;
   text-decoration: none;
   display: inline-block;
 }
@@ -79,7 +80,8 @@ a:link, a:visited {
   background-color: #a8f5bf;
   color: white;
   padding: 14px 25px;
-  text-align: center;
+  text-align: left;
+  width: 50%;
   text-decoration: none;
   display: inline-block;
 }
