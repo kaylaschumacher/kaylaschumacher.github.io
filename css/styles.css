@@ -61,6 +61,8 @@ main {
 
 
 a {
+  display: flex;
+  flex-direction: column;
   cursor: pointer;
   margin-bottom: 10px;
   background-color: #a8f5bf;
@@ -72,6 +74,8 @@ a {
 }
 
 a:link, a:visited {
+  display: flex;
+  flex-direction: column;
   background-color: #a8f5bf;
   color: white;
   padding: 14px 25px;
